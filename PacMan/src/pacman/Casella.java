@@ -2,7 +2,7 @@ package pacman;
 
 public class Casella {
 	
-	System.out.println("Comentari afegit per Andrei");
+	System.out.println("Comentari modificat per Andrei");
 	
 	System.out.println("Comentari afegit per Marius Hagiu");
 	
