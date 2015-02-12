@@ -4,6 +4,8 @@ public class Casella {
 	
 	System.out.println("Comentari afegit per Andrei");
 	
+	System.out.println("Comentari afegit per Marius Hagiu");
+	
 	//definim el tipus de caselles que hi ha
 	public static final int TIPUS_BUIDA = 1;
 	public static final int TIPUS_MUR = 2;
